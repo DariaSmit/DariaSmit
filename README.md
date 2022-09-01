@@ -6,6 +6,8 @@
 
 * [HeadHunter.ru ](https://github.com/DariaSmit/AUTO-1RU.HeadHunter)
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://komarev.com/ghpvc/?username=DariaSmit&style=flat-square&color=blue" alt=""/>
