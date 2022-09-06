@@ -5,7 +5,7 @@
 # Projects:
 
 * [HeadHunter.ru ](https://github.com/DariaSmit/AUTO-1RU.HeadHunter)
-
+* [Catalog-Plans.ru](https://github.com/DariaSmit/AUTO-1RU.CatalogPlans)
 
 
 <img src="https://komarev.com/ghpvc/?username=DariaSmit&style=flat-square&color=blue" alt=""/>
