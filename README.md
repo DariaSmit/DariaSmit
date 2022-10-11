@@ -7,6 +7,7 @@
 * [HeadHunter.ru ](https://github.com/DariaSmit/AUTO-1RU.HeadHunter) :computer:
 * [Catalog-Plans.ru](https://github.com/DariaSmit/AUTO-1RU.CatalogPlans)  :house:
 * [Twitch.tv](https://github.com/DariaSmit/AUTO-3-Twitch.tv) :video_game:
+* [Warface.com](https://github.com/DariaSmit/com.Warface/tree/master) :video_game:
 
 
 <img src="https://komarev.com/ghpvc/?username=DariaSmit&style=flat-square&color=blue" alt=""/>
